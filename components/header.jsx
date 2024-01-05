@@ -62,12 +62,6 @@ export default function Header() {
                                 />
                             </li>
                             <li>
-                                <CoursesLink
-                                    activeMenu={activeMenu}
-                                    changeActiveMenu={changeActiveMenu}
-                                />
-                            </li>
-                            <li>
                                 <ContactLink
                                     activeMenu={activeMenu}
                                     changeActiveMenu={changeActiveMenu}
