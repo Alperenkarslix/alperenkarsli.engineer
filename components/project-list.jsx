@@ -8,27 +8,21 @@ import Link from 'next/link';
 const staticProjects = [
     {
         id: 1,
-        imageUrl: '/dogfight.jpeg',
+        imageUrl: '/malware.jpeg',
         sourceCode: '',
         liveUrl: '',
-        title: 'Autonomous Air-to-Air Combat System for UAVs (Present)',
-        content: "Developing a cutting-edge Autonomous Air-to- Air Combat System for UAVs as part of my school's final project. Utilizing TensorFlow, OpenCV, and Kalman Filter technologies to enhance UAV capabilities in air-to-air combat scenarios.",
+        title: 'Python Malware',
+        content: "I was part of a team that developed a malware using Python. I worked with Selenium framework to create a mechanism for capturing and filtering passwords from browser.",
         hastags: [
             {
                 id: 4,
-                title: 'OpenCV',
+                title: 'Selenium',
                 published: true,
                 projectId: 1,
             },
             {
                 id: 5,
-                title: 'Tensorflow',
-                published: true,
-                projectId: 1,
-            },
-            {
-                id: 6,
-                title: 'Kalman Filter',
+                title: 'Malware',
                 published: true,
                 projectId: 1,
             },
@@ -42,39 +36,27 @@ const staticProjects = [
     },
     {
         id: 2,
-        imageUrl: '/kandilli.jpg',
+        imageUrl: '/mp3png.png',
         sourceCode: '',
         liveUrl: '',
-        title: 'Kandilli API',
-        content: "Created an API for Boğaziçi University's Kandilli Observatory and Earthquake Research Institute. Utilized Pandas and NumPy for data processing, and Flask for API development. The API delivers filtered real-time earthquake data and generates heatmaps based on specific criteria.",
+        title: 'BAUNmp3',
+        content: "I developed an MP3 player application using Electron JS as a final project for my object-oriented programming course. This project not only allowed me to gain experience with Electron and JavaScript, but also served as an opportunity to improve my skills in designing and implementing real applicatons.",
         hastags: [
             {
                 id: 4,
-                title: 'Python',
+                title: 'Electron JS',
                 published: true,
                 projectId: 2,
             },
             {
                 id: 5,
-                title: 'Flask',
+                title: 'JavaScript',
                 published: true,
                 projectId: 2,
             },
             {
                 id: 6,
-                title: 'Pandas',
-                published: true,
-                projectId: 2,
-            },
-            {
-                id: 7,
-                title: 'Numpy',
-                published: true,
-                projectId: 2,
-            },
-            {
-                id: 7,
-                title: 'Folium',
+                title: 'OOP',
                 published: true,
                 projectId: 2,
             },
@@ -82,123 +64,30 @@ const staticProjects = [
     },
     {
         id: 3,
-        imageUrl: '/url-shortener.png',
-        title: 'Rocket Link (URL Shortener Project)',
+        imageUrl: '/Spotify-Logo.jpeg',
+        title: 'Spotify Clone',
         sourceCode: '',
         liveUrl: '',
-        content: "I spearheaded the development of a URL shortener service, allowing users to easily create accounts, manage their profiles, and streamline their links for greater accessibility and efficiency.",
+        content: "I also developed a Spotify clone application using both SwiftUI and UIKit. I want to create my self opportunity to explore the world of mobile development.",
         hastags: [
             {
                 id: 1,
-                title: 'React.JS',
+                title: 'Spotify',
                 published: true,
                 projectId: 3,
             },
             {
                 id: 2,
-                title: 'Node.JS',
+                title: 'SwiftUI',
                 published: true,
                 projectId: 3,
             },
             {
                 id: 3,
-                title: 'SQL',
+                title: 'UIKit',
                 published: true,
                 projectId: 3,
             }
-        ],
-    },
-    {
-        id: 4,
-        imageUrl: '/gpt.jpg',
-        title: 'TTen (Chat-GPT-Enhanced Project with Image Prompt)',
-        sourceCode: '',
-        liveUrl: '',
-        content:
-            "TTen, developed solely by me, combines both frontend and backend elements. It provides unrestricted access to Chat-GPT using your API key, with additional image prompt capabilities powered by Tesseract. The frontend is built with React.js, and the backend is implemented using Flask and Python.",
-        hastags: [
-            {
-                id: 1,
-                title: 'OpenAI',
-                published: true,
-                projectId: 4,
-            },
-            {
-                id: 2,
-                title: 'React.JS',
-                published: true,
-                projectId: 4,
-            },
-            {
-                id: 3,
-                title: 'Python',
-                published: true,
-                projectId: 4,
-            },
-            {
-                id: 3,
-                title: 'Flask',
-                published: true,
-                projectId: 4,
-            },
-            {
-                id: 3,
-                title: 'Tesseract',
-                published: true,
-                projectId: 4,
-            },
-        ],
-    },
-    {
-        id: 5,
-        imageUrl: '/flight.jpeg',
-        title: 'Flight Database',
-        sourceCode: '',
-        liveUrl: '',
-        content:
-            "The flight management database project aims to create a database schema that can store information related to airports, airlines, flights, passengers, and flight delays. The purpose of this database is to facilitate the management and tracking of flights, passengers, and delays.",
-        hastags: [
-            {
-                id: 1,
-                title: 'SQL',
-                published: true,
-                projectId: 5,
-            },
-            {
-                id: 2,
-                title: 'MySQL',
-                published: true,
-                projectId: 5,
-            },
-            {
-                id: 3,
-                title: 'Oracle',
-                published: true,
-                projectId: 5,
-            },
-        ],
-    },
-    {
-        id: 6,
-        imageUrl: '/chat.png',
-        title: 'Socket Chat',
-        sourceCode: '',
-        liveUrl: '',
-        content:
-            "Our server, featuring threaded architecture, adeptly manages incoming connections, user interactions, and communication—ensuring optimal performance through parallel processing.",
-        hastags: [
-            {
-                id: 1,
-                title: 'Java',
-                published: true,
-                projectId: 6,
-            },
-            {
-                id: 2,
-                title: 'Paralel Programming',
-                published: true,
-                projectId: 6,
-            },
         ],
     },
 ];

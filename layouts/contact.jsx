@@ -15,10 +15,10 @@ export default function Contact() {
                         <h2 className="text-dark mb-6 text-[32px] font-bold sm:text-[40px] lg:text-[36px] xl:text-[40px]">
                             You can contact with me from: <br />
                             <a
-                                href="mailto:tayyipcanbaydev@gmail.com"
+                                href="mailto:alperenkarsliceng@gmail.com"
                                 className="text-dark mb-6 text-[32px] font-bold sm:text-[40px] lg:text-[36px] xl:text-[40px] text-blue-500"
                             >
-                                tayyipcanbaydev@gmail.com
+                                alperenkarsliceng@gmail.com
                             </a>
                         </h2>
                         {/* <div className="mb-8 flex w-full max-w-[370px]">

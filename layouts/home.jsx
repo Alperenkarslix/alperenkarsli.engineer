@@ -18,7 +18,7 @@ export default function HomeLayout() {
             <div className="flex flex-col sm:flex-row justify-start items-center sm:justify-center w-full h-full gap-2">
                 <div className="relative sm:mt-0 w-[200px] h-[200px] sm:w-[300px] sm:h-[300px] lg:w-[360px] lg:h-[360px] aspect-square m-4">
                     <Image
-                        src="/profile.jpg"
+                        src="/profilep.png"
                         className="rounded-full shadow-2xl"
                         fill={true}
                         alt="Picture of the author"
@@ -33,7 +33,7 @@ export default function HomeLayout() {
                     <div className="text-4xl font-medium text-center sm:text-start">
                         Hi 👋 my name is{' '}
                         <span className="text-primary">
-                            Tayyip CANBAY
+                            Alperen KARSLI
                         </span>
                     </div>
                     <div className="text-4xl font-medium text-center sm:text-start">

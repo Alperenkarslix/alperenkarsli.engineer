@@ -92,8 +92,8 @@ function LogoLink({ changeActiveMenu }) {
             }}
             scrollsmooth
         >
-            <div className="sm:hidden w-[65px]">TC</div>
-            <span className="hidden sm:block">Tayyip Canbay</span>
+            <div className="sm:hidden w-[65px]">AK</div>
+            <span className="hidden sm:block">Alperen Karslı</span>
         </Link>
     );
 }
