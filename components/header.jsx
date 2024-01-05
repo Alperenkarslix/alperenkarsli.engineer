@@ -142,6 +142,18 @@ const ProjectLink = ({ activeMenu = '', className = '', changeActiveMenu }) => (
         Projects
     </Link>
 );
+
+const CoursesLink = ({ activeMenu = '', className = '', changeActiveMenu }) => (
+    <Link
+        className={`block transition-colors hover:text-foreground/80 p-2 sm:p-0 ${activeMenu == '#courses' ? 'text-foreground' : 'text-foreground/60'
+            } ${className}`}
+        href="#courses"
+        onClick={changeActiveMenu}
+    >
+        Courses
+    </Link>
+);
+
 const ContactLink = ({ activeMenu = '', className = '', changeActiveMenu }) => (
     <Link
         className={` block transition-colors hover:text-foreground/80 p-2 sm:p-0 text-foreground${activeMenu == '#contact' ? '' : '/60'
