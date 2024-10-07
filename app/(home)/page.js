@@ -17,6 +17,8 @@ export default function Page() {
       <Resume />
 
       <Projects />
+
+      <Courses />
       
       <Contact />
     </ScroolContent>

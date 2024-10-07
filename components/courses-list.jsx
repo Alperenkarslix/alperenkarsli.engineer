@@ -10,9 +10,9 @@ const staticProjects = [
         id: 1,
         imageUrl: '',
         sourceCode: '',
-        liveUrl: 'https://www.coursera.org/account/accomplishments/specialization/certificate/XMGHA5Y49B4W',
-        title: 'Data Science Specialization (IBM)',
-        content: "This Professional Certificate provides hands-on training in Data Science and Machine Learning. Learners cover fundamentals, tools, Python, SQL, Data Visualization, and Machine Learning model creation. The program includes cloud-based labs and a Capstone Project for practical application and demonstration of skills.",
+        liveUrl: 'https://developers.google.com/profile/u/alperenkarslix ',
+        title: 'Google Machine Learning Certifications',
+        content: "These courses provide a comprehensive introduction to Machine Learning, covering topics such as neural networks, large language models, data handling, fairness, and production systems. They focus on building and optimizing models using numerical and categorical data, with hands-on exercises to ensure practical understanding.",
         hastags: [
         ],
     },
@@ -20,9 +20,9 @@ const staticProjects = [
         id: 2,
         imageUrl: '',
         sourceCode: '',
-        liveUrl: 'https://www.coursera.org/account/accomplishments/specialization/certificate/SQ6TVUGJDHCU',
-        title: 'AI Engineering Specialization (IBM)',
-        content: "This Professional Certificate provides practical skills in Machine Learning and Deep Learning for an AI Engineering career, covering ML algorithms, Big Data, Apache Spark, and Deep Learning models using Keras, PyTorch, and Tensorflow. Learners gain proficiency in communicating project outcomes.",
+        liveUrl: 'https://www.linkedin.com/in/alperenkarsli/details/certifications/',
+        title: 'Insider QA Bootcamp',
+        content: "This certification demonstrates expertise in test automation through hands-on training with Selenium, Grafana, and Jenkins. The project covers the fundamentals of automated testing, including creating and executing test scripts with Selenium, monitoring test performance using Grafana, and automating the integration and deployment process with Jenkins.",
         hastags: [
             
         ],
@@ -32,7 +32,7 @@ const staticProjects = [
         imageUrl: '',
         title: 'Supervised Machine Learning: Regression and Classification (Stanford University)', 
         sourceCode: '',
-        liveUrl: 'https://www.coursera.org/account/accomplishments/certificate/UE49BX2A4EKT',
+        liveUrl: 'https://www.coursera.org/account/accomplishments/certificate/KT6J91V72G9P',
         content: "Completed the Supervised Machine Learning: Regression and Classification course, mastering essential concepts. Explored diverse algorithms, including regression, classification, clustering, and recommender systems.",
         hastags: [
            

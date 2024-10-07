@@ -37,7 +37,7 @@ export default function HomeLayout() {
                         </span>
                     </div>
                     <div className="text-4xl font-medium text-center sm:text-start">
-                        I&apos;m a <span>Junior Software Engineer</span>
+                        I&apos;m a <span>Machine Learning Enthusiast</span>
                     </div>
                     <div>
                         <KnowMoreBtn />

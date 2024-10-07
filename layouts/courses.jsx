@@ -18,7 +18,7 @@ export default function Courses() {
                 </div>
                 {/* You can find all certificates in linkedin */}
                         <a
-                            href='https://www.linkedin.com/in/tayyip-canbay/'
+                            href='https://www.linkedin.com/in/alperenkarsli'
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-center text-blue-600 hover:underline"

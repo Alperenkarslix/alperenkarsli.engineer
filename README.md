@@ -6,26 +6,26 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Tools used
 
--   Nextjs
--   React
--   Tailwind
--   shadcn/ui
--   Radix Icons
--   Prisma
--   MongoDB
--   AWS S3
+- Nextjs
+- React
+- Tailwind
+- shadcn/ui
+- Radix Icons
+- Prisma
+- MongoDB
+- AWS S3
 
 ## Libraries used
 
--   @aws-sdk/client-s3
--   nodemailer
--   next-themes
--   use-immer
--   zod
--   uuid
--   bcrypt
--   axios
--   @prisma/client
+- @aws-sdk/client-s3
+- nodemailer
+- next-themes
+- use-immer
+- zod
+- uuid
+- bcrypt
+- axios
+- @prisma/client
 
 ## ENV
 
@@ -68,7 +68,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 MIT License
 
-Copyright (c) 2023 Mustafa Kemal Gördesli
+Copyright (c) 2024 Alperen Karslı
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
