@@ -94,7 +94,7 @@ export default function ExperiencesTimeline() {
                         Bayrampasa Therapy Vet Clinic
                     </h5>
                     <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                        Developed and launched a fully functional website, improving the clinic's online visibility and user engagement, and provided ongoing support to ensure seamless operation.
+                        Developed and launched a fully functional website, improving the clinics online visibility and user engagement, and provided ongoing support to ensure seamless operation.
                     </p>
                 </li>
             </ol>
