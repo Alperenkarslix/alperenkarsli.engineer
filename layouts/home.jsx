@@ -1,9 +1,9 @@
 import Image from 'next/image';
-import { Pixelify_Sans } from 'next/font/google';
+import { Inter } from 'next/font/google';
 import Link from 'next/link';
 import KnowMoreBtn from '@/components/buttons/KnowMoreBtn';
 
-const pixelify = Pixelify_Sans({
+const inter = Inter({
     weight: '500',
     subsets: ['latin'],
     display: 'swap',
@@ -27,7 +27,7 @@ export default function HomeLayout() {
                 <div
                     className={
                         'px-4 mt-2 sm:mt-0 mb-auto sm:mb-0 flex flex-col justify-start sm:justify-center items-center sm:items-start gap-5 ' +
-                        pixelify.className
+                        inter.className
                     }
                 >
                     <div className="text-4xl font-medium text-center sm:text-start">
